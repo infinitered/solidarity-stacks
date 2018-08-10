@@ -24,7 +24,7 @@
       }
     ],
     "Have Xcode": [
-      { "rule": "cli", "binary": "xcodebuild", "platform": "darwin" },
+      { "rule": "cli", "binary": "xcodebuild", "version": "-version", "platform": "darwin", "semver": ">=9.4" },
       { "rule": "cli", "binary": "xcrun", "platform": "darwin" }
     ]
   }
