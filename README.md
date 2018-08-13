@@ -1,3 +1,3 @@
-![Solidarity Stacks](./solidarity-stack.png)
+![Solidarity Stacks](./solidarity-stacks.png)
 # solidarity-stacks
 Community Solidarity files for well known software stacks
