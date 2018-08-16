@@ -28,7 +28,7 @@
       { "rule": "cli", "binary": "xcrun", "platform": "darwin" }
     ],
     "Have Python2": [
-      { "rule": "cli", "binary": "python", "platform": "windows" }
+      { "rule": "cli", "binary": "python", "platform": "windows", "semver": ">=2.0" }
     ]
   }
 }
