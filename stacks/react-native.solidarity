@@ -27,7 +27,7 @@
       { "rule": "cli", "binary": "xcodebuild", "version": "-version", "platform": "darwin", "semver": ">=9.4" },
       { "rule": "cli", "binary": "xcrun", "platform": "darwin" }
     ],
-    "Have Python2": [
+    "Have Python": [
       { "rule": "cli", "binary": "python", "platform": "windows" }
     ]
   }
